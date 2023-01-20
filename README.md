@@ -1,5 +1,6 @@
 # stress-level-Analysis
 we will create a script that takes as input a file from a streaming and returns as output a graph that describes the stress level per second for each factor and an aggregation of the different factors together.
+
 This code uses the OpenCV, dlib, and scipy libraries to track facial landmarks on a video feed and calculate various facial movements and expressions, such as blink rate, lip movement, and eyebrow movement.
 
 # Dependencies 
@@ -22,7 +23,9 @@ The code uses the dlib library to load a pre-trained facial landmark detector an
 
 # Additional Information
 
-The code also uses matplotlib library to plot the facial expression in the form of graph. Stress information is also tracked and stored in the form of list.
+The code also uses matplotlib library to plot the facial expression in the form of graph.
+
+Stress information is also tracked and stored in the form of list.
 
 # How to contribute
 If you would like to contribute to this code, please follow these guidelines:
