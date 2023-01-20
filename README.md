@@ -9,7 +9,7 @@ This code uses the OpenCV, dlib, and scipy libraries to track facial landmarks o
  - matplotlib
 
 # Usage
-1. Download the pre-trained dlib facial landmark detector from here and place it in the same directory as the code.
+1. Download the pre-trained dlib facial landmark detector from [Link text Here](https://link-url-here.org) here and place it in the same directory as the code.
 2. Run the code by typing python extractvideo.py in the command line.
 3. The code will start capturing frames from your webcam and display the facial movements and expressions on the screen.
 
